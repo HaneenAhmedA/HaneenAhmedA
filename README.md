@@ -13,6 +13,11 @@
 # 🧪 Training Platforms:
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com) [![PortSwigger](https://img.shields.io/badge/PortSwigger_Academy-FF6633?style=for-the-badge&logoColor=white)](https://portswigger.net/web-security) [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com) [![PicoCTF](https://img.shields.io/badge/PicoCTF-2C7BBE?style=for-the-badge&logoColor=white)](https://picoctf.org)
 
+# 🟩 HackTheBox Profile:
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440">
+  <img src="https://www.hackthebox.com/badge/image/019dd3ce-296c-730e-89eb-b31468ec1440" alt="HackTheBox Badge" />
+</a>
+
 # 🌱 Currently Learning:
 ![Advanced SQLi](https://img.shields.io/badge/Advanced_SQL_Injection-CC0000?style=for-the-badge&logoColor=white) ![JavaScript Deobfuscation](https://img.shields.io/badge/JS_Deobfuscation-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Web Fuzzing](https://img.shields.io/badge/Web_Fuzzing-4B0082?style=for-the-badge&logoColor=white) ![Bug Bounty](https://img.shields.io/badge/Bug_Bounty_Hunting-494649?style=for-the-badge&logo=hackerone&logoColor=white)
 
