@@ -18,6 +18,11 @@
   <img src="https://www.hackthebox.com/badge/image/019dd3ce-296c-730e-89eb-b31468ec1440" alt="HackTheBox Badge" />
 </a>
 
+# 🔵 TryHackMe Profile:
+<a href="https://tryhackme.com/p/haneeenahmed404">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/haneeenahmed404.png" alt="TryHackMe Badge" />
+</a>
+
 # 🌱 Currently Learning:
 ![Advanced SQLi](https://img.shields.io/badge/Advanced_SQL_Injection-CC0000?style=for-the-badge&logoColor=white) ![JavaScript Deobfuscation](https://img.shields.io/badge/JS_Deobfuscation-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Web Fuzzing](https://img.shields.io/badge/Web_Fuzzing-4B0082?style=for-the-badge&logoColor=white) ![Bug Bounty](https://img.shields.io/badge/Bug_Bounty_Hunting-494649?style=for-the-badge&logo=hackerone&logoColor=white)
 
