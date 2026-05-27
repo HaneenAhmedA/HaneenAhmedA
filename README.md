@@ -26,6 +26,15 @@
 # 🌱 Currently Learning:
 ![Advanced SQLi](https://img.shields.io/badge/Advanced_SQL_Injection-CC0000?style=for-the-badge&logoColor=white) ![JavaScript Deobfuscation](https://img.shields.io/badge/JS_Deobfuscation-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Web Fuzzing](https://img.shields.io/badge/Web_Fuzzing-4B0082?style=for-the-badge&logoColor=white) ![Bug Bounty](https://img.shields.io/badge/Bug_Bounty_Hunting-494649?style=for-the-badge&logo=hackerone&logoColor=white)
 
+# 🏅 Certifications & Badges:
+<a href="https://www.credly.com/badges/9e40dca5-6fbe-45cd-9efb-c1476e3f48a8/public_url">
+  <img src="https://images.credly.com/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/linkedin_thumb_image.png" width="150" alt="IBM Cybersecurity Fundamentals" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/382630df-7904-4cef-acfe-2d0cb5d6104a/public_url">
+  <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin_thumb_I2CS__1_.png" width="150" alt="Cisco Introduction to Cybersecurity" />
+</a>
+
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=HaneenAhmedA&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
