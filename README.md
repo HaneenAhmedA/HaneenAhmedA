@@ -80,24 +80,24 @@
   <img src="https://academy.hackthebox.com/storage/badges/your-first-battle.png" width="100" alt="Your First Battle" title="Getting Started" />
 </a>&nbsp;
 <a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440">
-  <img src="https://academy.hackthebox.com/storage/badges/fuzzing-guru.png" width="100" alt="Fuzzing Guru" title="Web Fuzzing" />
+  <img src="https://academy.hackthebox.com/storage/badges/8917b28cb5966d2cd835c151ed79e26b/logo.png" width="100" alt="Fuzzing Guru" title="Web Fuzzing" />
 </a>&nbsp;
 <a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440">
-  <img src="https://academy.hackthebox.com/storage/badges/cyber-starter.png" width="100" alt="Cyber Starter" title="Introduction to Information Security" />
+  <img src="https://academy.hackthebox.com/storage/badges/19bee749eaa26dce0829ad89ab2b2678/logo.png" width="100" alt="Cyber Starter" title="Introduction to Information Security" />
 </a>&nbsp;
 <a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440">
-  <img src="https://academy.hackthebox.com/storage/badges/infiltration-learner.png" width="100" alt="Infiltration Learner" title="Introduction to Penetration Testing" />
+  <img src="https://academy.hackthebox.com/storage/badges/15a6805a2edc268cd592a4030fa31b92/logo.png" width="100" alt="Infiltration Learner" title="Introduction to Penetration Testing" />
 </a>&nbsp;
 <a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440">
-  <img src="https://academy.hackthebox.com/storage/badges/solid-basis.png" width="100" alt="Solid Basis" title="Network Foundations" />
+  <img src="https://academy.hackthebox.com/storage/badges/cdf6a85ad770099681ddb3f12796c52a/logo.png" width="100" alt="Solid Basis" title="Network Foundations" />
 </a>&nbsp;
 <a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440">
-  <img src="https://academy.hackthebox.com/storage/badges/offensive-explorer.png" width="100" alt="Offensive Explorer" title="Pentest in a Nutshell" />
+  <img src="https://academy.hackthebox.com/storage/badges/aaa6e40380fd996cef796acc5c4bb5fd/logo.png" width="100" alt="Offensive Explorer" title="Pentest in a Nutshell" />
 </a>
 
 ### ⭐ Custom Badges
 <a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440">
-  <img src="https://academy.hackthebox.com/storage/badges/unwavering-user.png" width="100" alt="Unwavering User" title="First Weekly Streak" />
+  <img src="https://academy.hackthebox.com/storage/badges/7f81e8837d0540d610c5019478c7647a/logo.png" width="100" alt="Unwavering User" title="First Weekly Streak" />
 </a>
 
 # 🏆 GitHub Trophies:
