@@ -100,6 +100,17 @@
   <img src="https://academy.hackthebox.com/storage/badges/7f81e8837d0540d610c5019478c7647a/logo.png" width="100" alt="Unwavering User" title="First Weekly Streak" />
 </a>
 
+# 🔵 TryHackMe Badges:
+<a href="https://tryhackme.com/p/haneeenahmed404">
+  <img src="https://assets.tryhackme.com/img/badges/firstfour.png" width="100" alt="First Four" title="Completing four rooms in your first week" />
+</a>&nbsp;
+<a href="https://tryhackme.com/p/haneeenahmed404">
+  <img src="https://assets.tryhackme.com/img/badges/linux.png" width="100" alt="cat linux.txt" title="Being competent in Linux" />
+</a>&nbsp;
+<a href="https://tryhackme.com/p/haneeenahmed404">
+  <img src="https://assets.tryhackme.com/img/badges/defensive-ai.png" width="100" alt="Adversarial Defence Ops" title="Trained to Defend, Built to Learn" />
+</a>
+
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=HaneenAhmedA&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
