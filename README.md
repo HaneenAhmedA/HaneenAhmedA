@@ -38,8 +38,7 @@
 # 🟩 HackTheBox Academy Badges:
 
 ### 🏆 Path Completed
-<img width="1080" height="1080" alt="the-hunt-is-on" src="https://github.com/user-attachments/assets/9cf7b247-2aca-471b-b3a2-95e0fe3409bc" />
-
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/3a7a52ad-f909-45a4-a478-0a34e2457b4b" width="100" alt="The Hunt Is On" title="Cracking into Hack The Box" /></a>
 ### 🎓 Module Completion Badges
 <a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/academician.png" width="100" alt="Academician" title="Introduction to Academy" /></a>&nbsp;
 <a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/our-favorite-seabird.png" width="100" alt="Our Favorite Seabird" title="Linux Fundamentals" /></a>&nbsp;
