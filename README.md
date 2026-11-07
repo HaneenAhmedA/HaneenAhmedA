@@ -39,28 +39,31 @@
 
 ### 🏆 Path Completed
 <a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/3a7a52ad-f909-45a4-a478-0a34e2457b4b" width="100" alt="The Hunt Is On" title="Cracking into Hack The Box" /></a>
+
 ### 🎓 Module Completion Badges
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/academician.png" width="100" alt="Academician" title="Introduction to Academy" /></a>&nbsp;
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/our-favorite-seabird.png" width="100" alt="Our Favorite Seabird" title="Linux Fundamentals" /></a>&nbsp;
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/every-road-leads-back-to-root.png" width="100" alt="Every Road Leads Back to Root" title="File Inclusion" /></a>&nbsp;
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/airborne-delivery.png" width="100" alt="Airborne Delivery" title="File Transfers" /></a>&nbsp;
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/drop-your-weapon.png" width="100" alt="DROP Your Weapon" title="SQL Injection Fundamentals" /></a>&nbsp;
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/everything-is-connected.png" width="100" alt="Everything Is Connected" title="Introduction to Networking" /></a>&nbsp;
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/your-request-is-my-demand.png" width="100" alt="Your Request Is My Demand" title="Web Requests" /></a>&nbsp;
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/playing-with-the-mess.png" width="100" alt="Playing With the Mess" title="JavaScript Deobfuscation" /></a>&nbsp;
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/crawl-walk-run.png" width="100" alt="Crawl Walk Run" title="Windows Fundamentals" /></a>&nbsp;
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/fuzzing-is-power.png" width="100" alt="Fuzzing Is Power" title="Attacking Web Applications with Ffuf" /></a>&nbsp;
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/developer.png" width="100" alt="Developer" title="Introduction to Web Applications" /></a>&nbsp;
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/your-first-battle.png" width="100" alt="Your First Battle" title="Getting Started" /></a>&nbsp;
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/fuzzing-guru.png" width="100" alt="Fuzzing Guru" title="Web Fuzzing" /></a>&nbsp;
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/cyber-starter.png" width="100" alt="Cyber Starter" title="Introduction to Information Security" /></a>&nbsp;
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/infiltration-learner.png" width="100" alt="Infiltration Learner" title="Introduction to Penetration Testing" /></a>&nbsp;
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/solid-basis.png" width="100" alt="Solid Basis" title="Network Foundations" /></a>&nbsp;
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/offensive-explorer.png" width="100" alt="Offensive Explorer" title="Pentest in a Nutshell" /></a>
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/81d5ab45-86b9-45a7-ac28-97e7461f3ad9" width="100" alt="Academician" title="Introduction to Academy" /></a>&nbsp;
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/fc506341-8722-4e03-9aad-b93e6a756273" width="100" alt="Our Favorite Seabird" title="Linux Fundamentals" /></a>&nbsp;
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/53f4161e-5b59-43c4-bb80-828e0f763527" width="100" alt="Every Road Leads Back to Root" title="File Inclusion" /></a>&nbsp;
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/55d562dc-4663-4594-a485-0fbd6df97c13" width="100" alt="Airborne Delivery" title="File Transfers" /></a>&nbsp;
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/9a63d3e0-8585-45c8-9281-a69940bf52c5" width="100" alt="DROP Your Weapon" title="SQL Injection Fundamentals" /></a>&nbsp;
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/41f7a872-42a7-4d69-82b3-37e307bfab3a" width="100" alt="Everything Is Connected" title="Introduction to Networking" /></a>&nbsp;
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/fda115df-9177-4662-ab4a-316f5dbc7818" width="100" alt="Your Request Is My Demand" title="Web Requests" /></a>&nbsp;
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/0ee10b66-b9a2-4a6c-80f1-d64dd061ba99" width="100" alt="Playing With the Mess" title="JavaScript Deobfuscation" /></a>&nbsp;
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/6d719074-2c70-4e18-b5a1-550ae37d93fa" width="100" alt="Crawl Walk Run" title="Windows Fundamentals" /></a>&nbsp;
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/cba10282-a388-4ed9-af18-c65323c8c27f" width="100" alt="Fuzzing Is Power" title="Attacking Web Applications with Ffuf" /></a>&nbsp;
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/5456f0fe-d5f6-4f4c-8c25-3bfd4e0aa08f" width="100" alt="Developer" title="Introduction to Web Applications" /></a>&nbsp;
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/79511c27-b9c1-432c-9e45-fbd420ca4348" width="100" alt="Your First Battle" title="Getting Started" /></a>&nbsp;
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/ebb1c617-b02f-468e-8e4a-ed6fe6934bfb" width="100" alt="Fuzzing Guru" title="Web Fuzzing" /></a>&nbsp;
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/d5366e33-c4c7-4e86-9b4f-f20bac1c1bc0" width="100" alt="Cyber Starter" title="Introduction to Information Security" /></a>&nbsp;
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/53d44f62-e60d-4e1a-a545-c85d0a542a1a" width="100" alt="Infiltration Learner" title="Introduction to Penetration Testing" /></a>&nbsp;
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/6ee47099-0bc6-41ba-84c9-fed197cac69a" width="100" alt="Solid Basis" title="Network Foundations" /></a>&nbsp;
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/12eeed22-5850-4d76-8758-8cf1ffd86af0" width="100" alt="Offensive Explorer" title="Pentest in a Nutshell" /></a>
 
 ### ⭐ Custom Badges
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/unwavering-user.png" width="100" alt="Unwavering User" title="First Weekly Streak" /></a>&nbsp;
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/cyber-rookie-365.png" width="100" alt="Cyber Rookie 365" title="One year of learning at HTB Academy" /></a>
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/8a82ff88-d5a8-46d4-b7da-06f18a5a549f" width="100" alt="Unwavering User" title="First Weekly Streak" /></a>&nbsp;
+<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="https://github.com/user-attachments/assets/067840d4-ee3f-4325-9a99-1ffafb7a56f9" width="100" alt="Cyber Rookie 365" title="One year of learning at HTB Academy" /></a>
+
+
 
 # 🔵 TryHackMe Badges:
 <a href="https://tryhackme.com/p/haneeenahmed404">
