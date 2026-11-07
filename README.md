@@ -38,9 +38,7 @@
 # 🟩 HackTheBox Academy Badges:
 
 ### 🏆 Path Completed
-<a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440">
-  <img src="assets/htb/the-hunt-is-on.png" width="100" alt="The Hunt Is On" title="Cracking into Hack The Box" />
-</a>
+<img width="1080" height="1080" alt="the-hunt-is-on" src="https://github.com/user-attachments/assets/9cf7b247-2aca-471b-b3a2-95e0fe3409bc" />
 
 ### 🎓 Module Completion Badges
 <a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440"><img src="assets/htb/academician.png" width="100" alt="Academician" title="Introduction to Academy" /></a>&nbsp;
