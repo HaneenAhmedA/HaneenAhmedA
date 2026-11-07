@@ -13,6 +13,9 @@
 # 🧪 Training Platforms:
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com) [![PortSwigger](https://img.shields.io/badge/PortSwigger_Academy-FF6633?style=for-the-badge&logoColor=white)](https://portswigger.net/web-security) [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com) [![PicoCTF](https://img.shields.io/badge/PicoCTF-2C7BBE?style=for-the-badge&logoColor=white)](https://picoctf.org)
 
+# 🎯 Vulnerable Labs Practiced:
+[![Metasploitable 2](https://img.shields.io/badge/Metasploitable_2-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://sourceforge.net/projects/metasploitable/) [![OWASP Juice Shop](https://img.shields.io/badge/OWASP_Juice_Shop-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/www-project-juice-shop/) [![DVWA](https://img.shields.io/badge/DVWA-C62828?style=for-the-badge&logoColor=white)](https://github.com/digininja/DVWA)
+
 # 🟩 HackTheBox Profile:
 <a href="https://profile.hackthebox.com/profile/019dd3ce-296c-730e-89eb-b31468ec1440">
   <img src="https://www.hackthebox.com/badge/image/019dd3ce-296c-730e-89eb-b31468ec1440" alt="HackTheBox Badge" />
